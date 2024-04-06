@@ -1,0 +1,186 @@
+
+#home{
+  background-image: url(Images/home.jpg);
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0%;
+ 
+}
+#innerhome{
+  background-color: rgba(165, 42, 42, 0.507);
+  height: 100%;
+  width: 100%
+ 
+  
+}
+.nav-link{
+  color: #fff;
+  font-size: 15px;
+}
+.nav-link:hover{
+  color: #fff;
+  text-decoration: solid;
+  border-bottom: 2px solid red;
+  font-size: px;
+}
+.nav-link:active{
+  color: #fff;
+  border-bottom: 2px solid red;
+}
+.homehead1{
+  color:#fff;
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.homehead2{
+  color:#fff;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.homehead3{
+  color:#fff;
+  text-align: center;
+  font-size: 75px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hometext{
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+}
+#homebutton {
+  align-items: center;
+  border: 2px solid #fff;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 20px;
+  text-decoration: none;
+}
+#whyus{
+  background-image: url(Images/whyus.jpg);
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0%;
+}
+#innerwhyus{
+  background-color: rgba(0, 0, 0, 0.822);
+  height: 100%;
+  padding: 12px;
+  padding-bottom: 5%;
+  
+}
+
+.whyusbox{
+  padding: 3%;
+ align-items: center;
+ margin-top: 10px;
+
+}
+
+#whyustext h3{
+  text-align: center;
+  color:#fff;
+}
+#whyustext span{
+  text-align: center;
+  color:#fff;
+  
+}
+#whyusimgbox{
+  height: 100px;
+  width: 100px;
+}
+#whyusimg{
+  height: 100%;
+  width: 100%;
+}
+/*trainer*/
+#trainer{
+  background-image: url(Images/q.jpg);
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0%;
+}
+#innertariner{
+  background-color: rgba(148, 0, 211, 0.26);
+  height: 100%;
+  padding-bottom: 5px;
+}
+#trinrow{
+  height: 100%;
+
+}
+#train{
+  height: 100%;
+
+  
+}
+#trainername{
+  text-align: center;
+  color: #fff;
+}
+#trsainerimgbox{
+  height: 60%;
+}
+#trainerimg{
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  
+}
+
+#trainerbtn{
+width: 70%;
+margin-top: 2px;
+padding-top: -5px;
+ height: 60px;
+  background-color: #fff;
+  border-radius:20px  ;
+  align-items: center;
+  text-align: center;
+}
+#tbtn{
+  font-size: 30px;
+  color:red;
+  text-align: center;
+  align-items: center;
+  margin-left: 10px;
+}
+#contact{
+
+  background-color: rgb(39, 4, 71);
+  height: auto;
+  width: 100%;
+}
+#cimg{
+  height: 100%;
+  width: 100%;
+}
+#fromfiled{
+  width: 100%;
+  height: 40px;
+  margin: 2px;
+}
+#formmess{
+  width: 100%;
+ text-align: center;
+
+  margin: 2px;
+}
+#contactinfo{
+  background-color: rgba(0, 0, 0, 0.774);
+  margin: 2px;
+  margin-bottom: 5px;
+}
+#contacttext{
+  text-align: center;
+  color: #fff;
+  font-size: 25px;
+}
